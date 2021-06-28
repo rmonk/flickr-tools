@@ -1,5 +1,6 @@
 # Local
 config.json
+albums.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
